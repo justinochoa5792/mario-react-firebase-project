@@ -1,7 +1,11 @@
+html {
+  min-height: 100%;
+}
+
 body {
   margin: 0;
   padding: 0;
-  height: 100vh;
+  height: 100%;
   font-family: sans-serif;
   background-image: url("./images/mario-bg.png");
   background-repeat: no-repeat;
