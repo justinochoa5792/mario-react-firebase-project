@@ -3,7 +3,9 @@ body {
   padding: 0;
   height: 100vh;
   font-family: sans-serif;
-  background: url(images/mario-bg.png) no-repeat;
+  background-image: url("./images/mario-bg.png");
+  background-repeat: no-repeat;
+  background-size: cover;
   background-size: 100%;
   background-position: bottom;
   min-height: 100%;
